@@ -55,4 +55,12 @@
 | ------- |
 | [0055-jump-game](https://github.com/paldileep/Leetcode_Journey/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/paldileep/Leetcode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/paldileep/Leetcode_Journey/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/paldileep/Leetcode_Journey/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
