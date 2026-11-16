@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/paldileep/Leetcode_Journey/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/paldileep/Leetcode_Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/paldileep/Leetcode_Journey/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/paldileep/Leetcode_Journey/tree/master/0206-reverse-linked-list) |
 ## Recursion
