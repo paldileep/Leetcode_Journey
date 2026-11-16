@@ -14,6 +14,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/paldileep/Leetcode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/paldileep/Leetcode_Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/paldileep/Leetcode_Journey/tree/master/0189-rotate-array) |
+| [0704-binary-search](https://github.com/paldileep/Leetcode_Journey/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/paldileep/Leetcode_Journey/tree/master/0234-palindrome-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/paldileep/Leetcode_Journey/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
